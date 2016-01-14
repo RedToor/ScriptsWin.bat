@@ -11,6 +11,7 @@ WARNING ; When you run these files are at your own risk.
   #USBFixer    : Script Batch for reset USB altered and fix
   #Remove4size : Script Batch for remove files for his size in all system
   #rdisk       : Script Batch for Repar Disks
+  #Turn-(ON..  : Script Batch for see hidden files and back to hidden
 ```
 
 Scripts List by RedToor
